@@ -1,0 +1,36 @@
+{
+	"name": "Sabareesan",
+	"dob": "1980-12-21",
+	"bills": [
+		{
+			"date": "2022-12-03T05:34:57.660Z",
+			"products": [
+				{
+					"skuCode": "a",
+					"price": 100,
+					"quantity": 2,
+					"taxAmt": 20
+				},
+				{
+					"skuCode": "b",
+					"price": 200,
+					"quantity": 3,
+					"taxAmt": 0
+				}
+			],
+			"discount": "10%"
+		},
+		{
+			"date": "2022-08-03T05:34:57.660Z",
+			"products": [
+				{
+					"skuCode": "a",
+					"price": 80,
+					"quantity": 1,
+					"taxAmt": 20
+				}			
+			],
+			"discount": "0%"
+		}
+	]
+}
